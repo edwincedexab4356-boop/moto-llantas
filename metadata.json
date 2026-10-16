@@ -1,0 +1,6 @@
+{
+  "name": "Apex Moto - Taller Especializado de Motocicletas",
+  "description": "Sitio web y sistema de gestión profesional para taller mecánico de motos. Diagnóstico computarizado, mantenimiento y citas online con WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
